@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" height="200"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate flutter developer</h3>
@@ -9,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham77714" alt="shubham77714" /></a> </p>
 
-- 🔭 I’m currently working on **E-learning**
-
-- 🌱 I’m currently learning **flutter, firebase, Webrtc**
+- 🌱 I’m currently learning **flutter, firebase**
 
 - 💬 Ask me about **C/C++, Java, flutter**
 
